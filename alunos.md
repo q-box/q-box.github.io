@@ -1,21 +1,21 @@
 Q-Box Projeto
 
 - **Nome**: @BiGGLeo
-    - **Matrícula**:
+    - **Matrícula**: 20141011110352
     - **E-Mail**:
     - **Horários no NUDES**:
 
 - **Nome**: @joaomendesln
-    - **Matrícula**:
-    - **E-Mail**:
+    - **Matrícula**: 20141011110018
+    - **E-Mail**: mendeslopes.joao@gmail.com
     - **Horários no NUDES**:
 
 - **Nome**: @JorgeEnrique21
-    - **Matrícula**:
+    - **Matrícula**: 20141011110190
     - **E-Mail**:
     - **Horários no NUDES**:
 
 - **Nome**: @nestorcaetano
-    - **Matrícula**:
+    - **Matrícula**: 20141011110204
     - **E-Mail**:
     - **Horários no NUDES**:
