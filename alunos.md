@@ -17,5 +17,5 @@ Q-Box Projeto
 
 - **Nome**: @nestorcaetano
     - **Matrícula**: 20141011110204
-    - **E-Mail**:
+    - **E-Mail**: 14nestorcaetano@gmail.com
     - **Horários no NUDES**:
