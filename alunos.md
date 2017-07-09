@@ -4,7 +4,7 @@ Q-Box Projeto
     - **Nome Completo**: Leon Andrade Siqueira
     - **Matrícula**: 20141011110352
     - **E-Mail**: leonzorx@gmail.com
-    - **Horários no NUDES**: 
+    - **Horários no NUDES**: Segunda: 16h - ?; Terça: 16h - ?; Quarta: 12h - 15h; Quinta: 12h - 15h
 
 - **Nome**: @joaomendesln
     - **Nome Completo**: João Mendes Lopes Neto
