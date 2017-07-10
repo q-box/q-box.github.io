@@ -22,4 +22,4 @@ Q-Box Projeto
     - **Nome Completo**: Nestor Caetano dos Santos
     - **Matrícula**: 20141011110204
     - **E-Mail**: 14nestorcaetano@gmail.com
-    - **Horários no NUDES**:
+    - **Horários no NUDES**: Sexta: 12h - 15h
