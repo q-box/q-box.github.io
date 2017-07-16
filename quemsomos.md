@@ -1,4 +1,4 @@
 <head>
-  <title>Quem Somos</head>
-</hea>
+  <title>Quem Somos</title>
+</head>
 Um pequeno com texto explicativo trazendo informações nossas
