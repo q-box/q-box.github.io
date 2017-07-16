@@ -1,7 +1,1 @@
----
-layout: page
-title: Quem somos
-permalink: /quemsomos/
----
-
-Um pequeno texto explicativo trazendo informações nossas
+Um pequeno com texto explicativo trazendo informações nossas
