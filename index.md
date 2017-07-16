@@ -1,6 +1,6 @@
-*[Quem somos](quemsomos.md) 
-*[Funcionalidades](funcionalidades.md)
-*[Motivação](motivacao.md)
+- [Quem somos](quemsomos.md) 
+- [Funcionalidades](funcionalidades.md)
+- [Motivação](motivacao.md)
 
 
 # [](#header-1) O que é Q-Box?
