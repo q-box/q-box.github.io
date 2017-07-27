@@ -1,6 +1,3 @@
-# q-box.github.io
-Site do projeto
-
 # [](#header-1) Q-Box : Problemas da UI
 
 # [](#header-2) Geral
