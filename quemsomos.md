@@ -5,6 +5,10 @@
 - Leonardo Ataide Minora (IFRN/CNAT/DIATINF/2422958)
 
 
+## [](#header-2) Gerente de projetos
+
+- Poliana Linhares (externo)
+
 ## [](#header-2) Professores envolvidos
 
 - Danielle Gomes de Freitas Medeiros (IFRN/CNAT/DIATINF/3504729)
