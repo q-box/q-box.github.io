@@ -2,7 +2,7 @@
 
 ## [](#header-2) Funcionalidades
 
-[](#header-3)Como um Usuário geral eu quero: 
+[](#header-3)Como um Usuário geral eu quero:... 
 -acessar as listas cadastradas por assunto estejam ordenadas em ordem alfabética 
 -fazer uma lista de assuntos possa ver o meu desempenho ao finalizá-la 
 -me cadastrar tenha acesso às funcionalidades permitidas a esse tipo de usuário 
