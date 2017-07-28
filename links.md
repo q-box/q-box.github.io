@@ -16,3 +16,10 @@
     - (pt-br) [Começando um projeto usando técnicas de UX e UI](https://talkitbr.com/2017/01/04/comecando-um-projeto-usando-tecnicas-de-ux-e-ui/)
 - UCD (User-Centered Design) ou UDD (User-Driven Design)
     - (en) [Wikipedia User-Centered Design](https://en.wikipedia.org/wiki/User-centered_design)
+- Laravel
+    - (en) [Novidades sobre Laravel](https://laravel-news.com/)
+        - (en) [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
+        - (en) [Docker Homestead](https://laravel-news.com/dockerized-version-of-laravel-homestead)
+    - (en) [Laracasts](https://laracasts.com) : It's Kinda Like Netflix for Your Career!
+        - (en) [Laravel tutorials and courses](https://laracasts.com/skills/laravel)
+        - (en) [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
