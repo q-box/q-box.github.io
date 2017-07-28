@@ -1,16 +1,19 @@
 
+## [](#header-2) Histórias do usuário (Funcionalidades)
 
-## [](#header-2) Funcionalidades
 
 ### [](#header-3)Como um Usuário geral eu quero:... 
   - acessar as listas cadastradas por assunto estejam ordenadas em ordem alfabética 
   - fazer uma lista de assuntos possa ver o meu desempenho ao finalizá-la 
   - me cadastrar tenha acesso às funcionalidades permitidas a esse tipo de usuário 
+  
+  
 ### [](#header-3)Como um Usuário cadastrado eu quero: 
-  - fazer uma lista de exercícios possa ver o meu desempenho ao finalizá-la 
-    - e ele fique salvo no banco de dados 
+  - fazer uma lista de exercícios possa ver o meu desempenho ao finalizá-la e ele fique salvo no banco de dados 
   - ter acesso ao meu desempenho em cada lista
   - editar as minhas informações de perfil 
+  
+  
 ### [](#header-3)Como Professor eu quero: 
   - criar uma turma obtenha um código único que enviarei para os meus poderem fazer parte dela 
   - excluir uma turma -atualizar o nome de uma turma 
@@ -25,9 +28,13 @@
   - editar as informações de um assunto 
   - excluir um assunto 
   - alterar o status de visualização de um assunto ele fique disponível para realizar conforme o meu interesse 
+  
+  
 ### [](#header-3)Como Professor ou Aluno eu quero: 
   - visualizar minhas turmas 
   - visualizar quais são os membros participantes da turma que faço parte 
+  
+  
 ### [](#header-3)Como aluno eu quero: 
   - entrar em uma turma o meu professor tenha os desempenhos meus e dos meus colegas agrupados 
   - sair de uma turma
