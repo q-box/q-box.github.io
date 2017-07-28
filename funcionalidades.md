@@ -1,6 +1,8 @@
 
 
- | **Como um** |	**eu quero**	|	**de modo que**	|
+## [](#header-2) Funcionalidades
+
+| **Como um** |	**eu quero**	|	**de modo que**	|
 Usuário geral	| acessar as listas cadastradas por assunto |	estejam ordenadas em ordem alfabética	|
 Usuário geral	| fazer uma lista de assuntos	| possa ver o meu desempenho ao finalizá-la	|
 Usuário geral |	me cadastrar | tenha acesso às funcionalidades permitidas a esse tipo de usuário	|
