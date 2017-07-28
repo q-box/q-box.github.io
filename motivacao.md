@@ -1,6 +1,4 @@
-# [](#title) Motivação
-
-## [](#header-1) Motivação
+# [](#header-1) Motivação
 
 Para este projeto existe 2 (dois) principais tipos de motivação, à saber: da teoria à prática de desenvolvimento de software e de apoio tecnológico as disciplinas com lista de exercícios.
 
