@@ -7,8 +7,7 @@
 Usuário geral	| acessar as listas cadastradas por assunto |	estejam ordenadas em ordem alfabética	|
 Usuário geral	| fazer uma lista de assuntos	| possa ver o meu desempenho ao finalizá-la	|
 Usuário geral |	me cadastrar | tenha acesso às funcionalidades permitidas a esse tipo de usuário	|
-Usuário cadastrado |	fazer uma lista de exercícios	| possa ver o meu desempenho ao finalizá-la	|
-e ele fique salvo no banco de dados |
+Usuário cadastrado |	fazer uma lista de exercícios	| possa ver o meu desempenho ao finalizá-la	e ele fique salvo no banco de dados|
 Usuário cadastrado	| ter acesso ao meu desempenho em cada lista |	...	|
 Usuário cadastrado |	editar as minhas informações de perfil	|
 Professor	| criar uma turma	|	obtenha um código único que enviarei para os meus poderem fazer parte dela	|
