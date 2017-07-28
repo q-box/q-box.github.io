@@ -1,10 +1,4 @@
-# q-box.github.io
-Site do projeto
-|como um        | Eu quero      | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
  | Como um |	eu quero	|	de modo que	|
 usuário geral	| acessar as listas cadastradas por assunto |	estejam ordenadas em ordem alfabética	|
