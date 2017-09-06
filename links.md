@@ -2,6 +2,12 @@
 
 ## [](#header-2) Links
 
+- Scrum
+    - (en) [Scrum Alliance](https://www.scrumalliance.org)
+    - [Scrum Guides](http://www.scrumguides.org)
+        - (pt) [Guia do Scrum](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf)
+    - (pt) [Blog Fique por dentro do quadro](http://br.blog.trello.com/)
+        - (pt) [Guia da Metodologia Ágil e Scrum Para Iniciantes](http://br.blog.trello.com/scrum-metodologia-agil/)
 - História de usuários
     - (pt) [Wikipedia História do Usuário](https://pt.wikipedia.org/wiki/História_de_usuário)
     - (en) [User Stories: an agile introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
