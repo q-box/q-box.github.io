@@ -2,6 +2,7 @@
 
 ## [](#header-2) Links
 
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Scrum
     - (en) [Scrum Alliance](https://www.scrumalliance.org)
     - [Scrum Guides](http://www.scrumguides.org)
