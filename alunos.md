@@ -11,6 +11,6 @@
   - **Matrícula**: 20161011110007
   - **E-Mail**: daniel.victorpaulino9@gmail.com
 - **Nome**: @MatSilvaC
-  - **Nome Completo**: Matheus Silva de Arruda Câmara
-  - **Matrícula**: 20161011110014
+  - **Nome Completo**: Matheus Silva de Arruda Câmara
+  - **Matrícula**: 20161011110014
   - **E-Mail**: matheusgmer@hotmail.com
