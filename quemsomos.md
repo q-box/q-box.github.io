@@ -18,9 +18,9 @@
 
 ## [](#header-2) Equipe 
 
-- [Luciano Ramos Sizilio](@LuSizilio)
-- [Daniel Victor Costa de Gois Paulino](@victordaniel102)
-- [Matheus Silva de Arruda Câmara](@MatSilvaC)
+- [Luciano Ramos Sizilio](http://github.com/LuSizilio)
+- [Daniel Victor Costa de Gois Paulino](http://github.com/victordaniel102)
+- [Matheus Silva de Arruda Câmara](http://github.com/MatSilvaC)
 
 
 ## [](#header-2) Equipe 2017
