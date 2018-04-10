@@ -2,35 +2,17 @@
 
 ## [](#header-2) Informações dos alunos
 
-- **Nome**: @BiGGLeo
-    - **Nome Completo**: Leon Andrade Siqueira
-    - **Matrícula**: 20141011110352
-    - **E-Mail**: leonzorx@gmail.com
-    - **Horários no NUDES**:
-        - Segunda: 16h - ?
-        - Terça: 16h - ?
-        - Quarta: 12h - 15h
-        - Quinta: 12h - 15h
+- **Nome**: @LuSizilio
+    - **Nome Completo**: Luciano Ramos Sizilio
+    - **Matrícula**: 20161011110009
+    - **E-Mail**: lucianorsizilio@gmail.com
 
-- **Nome**: @joaomendesln
-    - **Nome Completo**: João Mendes Lopes Neto
-    - **Matrícula**: 20141011110018
-    - **E-Mail**: mendeslopes.joao@gmail.com
-    - **Horários no NUDES**:
-        - Segunda: 13h - 16h
-        - Quinta: 13h - 18h
-        - Sexta: 13h - 18h
+- **Nome**: @victordaniel102
+    - **Nome Completo**: Daniel Victor Costa de Gois Paulino
+    - **Matrícula**: 20161011110007
+    - **E-Mail**: daniel.victorpaulino9@gmail.com
 
-- **Nome**: @JorgeEnrique21
-    - **Nome Completo**: Jorge Enrique de Azevedo Tinoco
-    - **Matrícula**: 20141011110190
-    - **E-Mail**: jorgeenrique2184@gmail.com
-    - **Horários no NUDES**:
-        - Segunda à Sexta: 12h - 15h
-
-- **Nome**: @nestorcaetano
-    - **Nome Completo**: Nestor Caetano dos Santos
-    - **Matrícula**: 20141011110204
-    - **E-Mail**: 14nestorcaetano@gmail.com
-    - **Horários no NUDES**:
-        - Sexta: 12h - 15h
+- **Nome**: @MatSilvaC
+    - **Nome Completo**: Matheus Silva de Arruda Câmara
+    - **Matrícula**: 20161011110190
+    - **E-Mail**: matheusgmer@hotmail.com
