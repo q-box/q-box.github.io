@@ -16,7 +16,14 @@
 - Geraldo Felipe de Souza Filho (IFRN/CNAT/DIAC/1682410)
 
 
-## [](#header-2) Alunos
+## [](#header-2) Equipe 
+
+- [Luciano Ramos Sizilio](@LuSizilio)
+- [Daniel Victor Costa de Gois Paulino](@victordaniel102)
+- [Matheus Silva de Arruda Câmara](@MatSilvaC)
+
+
+## [](#header-2) Equipe 2017
 
 - Leon Andrade Siqueira - 20141011110352
 - João Mendes Lopes Neto - 20141011110018
