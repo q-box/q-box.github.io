@@ -47,7 +47,7 @@ No contexto da Física Básica (a primeira disciplina a testar o Q-Box), essa pr
 
 ## [](#header-2) Período
 
-**maio-dezembro / 2017**
+**março-dezembro / 2018**
 
 ## [](#header-2) Professores coordenador
 
@@ -63,7 +63,6 @@ No contexto da Física Básica (a primeira disciplina a testar o Q-Box), essa pr
 
 ## [](#header-2) Alunos
 
-- Leon Andrade Siqueira - 20141011110352
-- João Mendes Lopes Neto - 20141011110018
-- Jorge Enrique de Azevedo Tinoco - 20141011110190
-- Nestor Caetano dos Santos - 20141011110204
+- Luciano Ramos Sizilio - **Matrícula** 20161011110009 - **E-Mail**: lucianorsizilio@gmail.com
+- Daniel Victor Costa de Gois Paulino - **Matrícula**: 20161011110007 - **E-Mail**: daniel.victorpaulino9@gmail.com
+- Matheus Silva de Arruda Câmara - **Matrícula**: 20161011110014 - **E-Mail**: matheusgmer@hotmail.com
