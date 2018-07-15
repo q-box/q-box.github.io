@@ -9,7 +9,7 @@
 - **Nome**: @victordaniel102
   - **Nome Completo**: Daniel Victor Costa de Gois Paulino
   - **Matrícula**: 20161011110007
-  - **E-Mail**: daniel.victorpaulino9@gmail.com
+  - **E-Mail**: daniel.victor9@hotmail.com
 - **Nome**: @MatSilvaC
   - **Nome Completo**: Matheus Silva de Arruda Câmara
   - **Matrícula**: 20161011110014
